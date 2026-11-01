@@ -1,0 +1,3 @@
+# Playwright MCP snapshots, screenshots and traces
+.playwright-mcp/
+node_modules/
